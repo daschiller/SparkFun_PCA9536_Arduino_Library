@@ -23,11 +23,7 @@
 
 #pragma once
 
-#if (ARDUINO >= 100)
 #include "Arduino.h"
-#else
-#include "WProgram.h"
-#endif
 
 #define DEBUG_PCA9536
 

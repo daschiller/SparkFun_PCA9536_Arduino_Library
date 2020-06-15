@@ -21,7 +21,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include <SparkFun_PCA9536_Arduino_Library.h>
+#include <PCA9536.h>
 
 #ifdef DEBUG_PCA9536
 #define PCA9536_DEBUG(x)      \
